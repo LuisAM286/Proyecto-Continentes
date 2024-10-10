@@ -17,7 +17,7 @@ p, li{
 nav{
     padding: 10px;
 }
-a{
+header a{
     text-decoration: none;
     color: white;
 
@@ -307,3 +307,33 @@ nav a:hover{
   color: #555;
   font-family: Arial, sans-serif;
 }
+
+
+/*  */
+  /*  */
+  /*  */
+
+  .contenedor-li1{
+    margin-top: 30px;
+    border-top: #164358 3px solid;
+    flex-direction: column;
+    padding: 5em;
+  }
+  .contenedor-li1 h4{
+    color: #164358;
+    font-weight: bold;
+    font-size: 25px;
+  }
+  .contenedor-li1 li{
+    font-size: 18px;
+  }
+  
+  .contenedor-li1 a{
+    color: #2c8cc9;
+    text-decoration: none;
+  }
+  .contenedor-li1 a:hover{
+    color: #164358;
+    text-decoration: none;
+  }
+
